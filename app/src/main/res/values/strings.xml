@@ -3,4 +3,16 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="clear_inbox">Clear inbox</string>
+
+    <!-- COLORS -->
+    <color name="backgroundcolor">#000000</color>
+    <color name="textcolor">#00FF00</color>
+    <color name="text2color">#808080</color>
+    <color name="text3color">#FFFF00</color>
+    <color name="text4color">#FFFFFF</color>
+
+    <string name="prefs">prefs</string>
+    <string name="prefs_server_url">server_url</string>
 </resources>
